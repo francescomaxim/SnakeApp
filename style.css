@@ -1,0 +1,26 @@
+*{
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-size: 16px;
+    text-align: center;
+
+    background-color: black;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#board{
+    border: 5px solid #bf2f2a;
+}
+
+#score{
+    font-size: 4rem;
+}
+
+#reset{
+    font-size: 2rem;
+    width: 200px;
+}
